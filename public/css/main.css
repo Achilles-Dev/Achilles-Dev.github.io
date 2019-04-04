@@ -1,0 +1,19 @@
+.header{
+    background-image: url('../img/background.jpg');
+    
+}
+
+
+   .description{
+    top: 30%;
+    text-align: center;
+    margin: auto;
+    padding: 2em;
+}
+
+.description h1{
+    color:#F97300 ;
+   
+   }
+   
+   
